@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    font-family: 'poppins', sans-serif;
+    background: rgb(158,k155,224);
+    background: linear-gradient(90deg,rgba(158,155,224,1)12%,rgba(14,24,142,1)100%);
+}
+#maincontainer{
+    background: none;
+    padding-top: 10em;
+}
+#clock{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    color: white;    
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+#wrapper{
+    background: none;
+    margin: 4px;
+    border: 4px solid white;
+    padding: 20px;
+}
+#hours{
+    font-size: 5em;
+    background: none;
+    color: white;
+    letter-spacing: 2px;
+}
+#min{
+    font-size: 5em;
+    background: none;
+    color: white;
+    letter-spacing: 2px;
+}
+#sec{
+    font-size: 5em;
+    background: none;
+    color: white;
+    letter-spacing: 2px;
+}
+#AMPM{
+    font-size: 2em;
+    background: none;
+    color: white;
+    letter-spacing: 2px;
+    padding-left: 20px;
+}
+#int{
+    font-size: 5em;
+    background: none;
+    color: white;
+    letter-spacing: 2px;
+    padding: 20px;
+}

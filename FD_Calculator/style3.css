@@ -1,0 +1,42 @@
+html,body{
+    background-color: #f1d15a;
+}
+
+#warpper{
+    justify-content: center; 
+    border-radius: 100px;
+    border: 10px solid rgb(0, 0, 0);  
+    height: 500px;
+    width: 400px;
+    margin: 40px auto;
+    background-color: #292928;
+    padding: 20px;
+}
+
+h2{
+    color: #ffeba7;
+    padding-left: 100px;
+    padding-top: 120px;
+}
+
+.inputdiv{
+    padding-left: 100px;
+}
+
+#input1, #input2{
+    border-radius: 8px;
+    border-color: black;
+    background-color: #ffef92;
+}
+
+#button{
+    border-radius: 8px;
+    border-color: black;
+    background-color: #ffef92;
+}
+
+#result, #result2{
+    color: #ffeba7;
+    padding-left: 100px;
+    font-size: 18px;
+}
